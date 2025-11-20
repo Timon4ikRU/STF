@@ -13,5 +13,6 @@ A custom binary file format with built-in compression for efficient text storage
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/stf-format.git
-cd stf-format
+git clone https://github.com/Timon4ikRU/STF.git
+cd STF
+```
